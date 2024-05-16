@@ -1,0 +1,4 @@
+C:\Users\Merry\OneDrive\Documents\EXAMPLES_POOII\EXERCISE CAT\obj\Debug\net8.0\EXERCISE CAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merry\OneDrive\Documents\EXAMPLES_POOII\EXERCISE CAT\obj\Debug\net8.0\EXERCISE CAT.AssemblyInfoInputs.cache
+C:\Users\Merry\OneDrive\Documents\EXAMPLES_POOII\EXERCISE CAT\obj\Debug\net8.0\EXERCISE CAT.AssemblyInfo.cs
+C:\Users\Merry\OneDrive\Documents\EXAMPLES_POOII\EXERCISE CAT\obj\Debug\net8.0\EXERCISE CAT.csproj.CoreCompileInputs.cache
